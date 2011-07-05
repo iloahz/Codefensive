@@ -16,6 +16,5 @@ Algorithm
 Updates
 =======
 
-Update 2011-7-5:  
-----------------
+Update 2011-7-5:   
 	Since I am not familiar with PHP....So I plan to use ```C++``` or ```Python``` as the process language. Still we can create a webpage with CGI to achieve the same function.
