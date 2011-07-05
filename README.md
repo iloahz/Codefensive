@@ -8,7 +8,7 @@ Now I will start with ```C++``` source code, and I believe this project will be 
 Algorithm
 =========
 
-* Replace all the variables with the combination of '-' and '\_'
+* Replace all the variables with different numbers of '\_'
 * Replace `if-else` with `?:`
 * Transform loops(e.g. ```for```, ```while```, ```do-until```) to recursive functions
 * Replace constants with variables
