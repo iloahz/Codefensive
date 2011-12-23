@@ -10,7 +10,7 @@ Algorithm
 
 * Replace all the variables with different numbers of '\_'
 * Replace `if-else` with `?:`
-* Transform loops(e.g. ```for```, ```while```, ```do-until```) to recursive functions
+* <del>Transform loops(e.g. ```for```, ```while```, ```do-until```) to recursive functions</del>
 * Replace constants with variables
 
 Updates
