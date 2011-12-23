@@ -16,5 +16,6 @@ Algorithm
 Updates
 =======
 
-Update 2011-7-5:   
-	Since I am not familiar with PHP....So I plan to use ```C++``` or ```Python``` as the process language. Still we can create a webpage with CGI to achieve the same function.
+* Update 2011-7-5: Since I am not familiar with PHP....So I plan to use ```C++``` or ```Python``` as the process language. Still we can create a webpage with CGI to achieve the same function.
+
+* Update 2011-12-23: PHP? What's that ridiculous? As I currently know, building an AST(Abstract syntax tree) would be the best choice, ```Python``` may be the choice to support GAE. btw gcc is definitely unreadable.
