@@ -21,3 +21,5 @@ Updates
 * Update 2011-12-23: PHP? What's that ridiculous? As I currently know, building an AST(Abstract syntax tree) would be the best choice, ```Python``` may be choosed as the processing language in order to support GAE. btw gcc is definitely unreadable.
 
 * Update 2011-12-23: AST may not be needed.
+
+* Update 2011-12-24: The first available version.
