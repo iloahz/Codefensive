@@ -1,5 +1,8 @@
+import Rnum
+import Rvar
+
 def trans(s):
-    ret = ""
-    for i in s:
-        ret = i + ret
-    return ret
+    x = 0
+    [s, x] = Rvar.trans(s,x)
+    [s, x] = Rnum.trans(s,x)
+    return s

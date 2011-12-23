@@ -5,9 +5,12 @@ api_version: 1
 threadsafe: true
 
 handlers:
-- url: /
-  static_files: index.html
-  upload: index.html
+- url: /docs
+  static_dir: docs
 
-- url: /cov
-  script: cov.app
+- url: /favicon.ico
+  static_files: favicon.ico
+  upload: favicon.ico
+
+- url: /.*
+  script: codefensive.app
