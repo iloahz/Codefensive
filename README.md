@@ -12,6 +12,14 @@ Algorithm
 * <del>Transform loops(e.g. ```for```, ```while```, ```do-until```) to recursive functions</del>
 * Replace constants with variables
 
+To-Do list
+==========
+
+* Deal with the content in ```()```
+* Complete support to ```typedef```
+* Support ```class```
+* Exchange ```for(s1;s2;s3)s4;``` with ```while(s1)s2;```
+
 Updates
 =======
 
