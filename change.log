@@ -1,0 +1,5 @@
+0.1 Beta
+========
+
+* Supports ```C++``` now!
+* Supports orginal data types. i.e. 'bool', 'int', etc.
