@@ -1,9 +1,8 @@
 Introduction
 ============
 
-This is a geek thing trying to make the source code unreadable.  
-Now(2011-7-3) I consider the final product to be a webpage, so ```PHP``` is chosen as the process language.  
-Now I will start with ```C++``` source code, and I believe this project will be able to process more programming languages, so I will think carefully for the architecture. ^.^
+This is a geek thing trying to make the source code unreadable.
+Now supports ```C++``` only.
 
 Algorithm
 =========
@@ -22,4 +21,4 @@ Updates
 
 * Update 2011-12-23: AST may not be needed.
 
-* Update 2011-12-24: The first available version.
+* Update 2011-12-24: The first available version. 0.1 Beta.
